@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @flawas
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java and other stuff
+- 👀 I’m interested in coding, IoT
+- 🌱 I’m currently learning Java
 - 💞️ I love to share my code on this plattform
