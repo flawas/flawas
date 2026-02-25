@@ -60,7 +60,7 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 
 </div>
 
-> 🏒 Ein WordPress-Plugin, das die **Swiss Floorball API** integriert - Vereinsdaten, Spielpläne und Resultate direkt in WordPress. Aktuell wird es komplett neu gebaut.
+> 🏒 Ein WordPress-Plugin, das die **Swiss Floorball API** integriert – Vereinsdaten, Spielpläne und Resultate direkt in WordPress. Aktuell wird es komplett neu gebaut.
 
 ---
 
@@ -81,20 +81,34 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 
 ---
 
-## 🎯 Ziele 2026
+## 🎯 Ziele 2025
 
 - [ ] 🔌 `swiss-floorball-api` Plugin veröffentlichen
+- [ ] 🛡️ Security-Kenntnisse vertiefen
+- [ ] 🌐 Eigene Portfolio-Website launchen
 - [ ] 📦 Weitere nützliche Open-Source-Tools bauen
 - [ ] 📖 Tech-Docs & Writeups teilen
 
 ---
 
-## 📫 Kontakt & Support
+## 💛 Sponsoring
+
+<div align="center">
+
+[![Sponsor flawas](https://img.shields.io/badge/❤️%20Sponsor%20flawas-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/flawas)
+[![PayPal](https://img.shields.io/badge/PayPal%20Donation-00457C?style=for-the-badge&logo=paypal&logoColor=white)](http://www.paypal.me/flaviowaser)
+
+</div>
+
+Alle meine Projekte entstehen in der Freizeit – neben einem Vollzeitjob, aus echtem Interesse und dem Wunsch, etwas Nützliches für die Community zu bauen. Wenn dir meine Arbeit gefällt oder du sie unterstützen möchtest, freue ich mich sehr über eine kleine Spende. Jeder Betrag hilft dabei, mehr Zeit in open-source Projekte wie das **swiss-floorball-api** Plugin zu investieren. 🙏
+
+---
+
+## 📫 Kontakt
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/@flawas-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flawas)
-[![PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](http://www.paypal.me/flaviowaser)
 
 </div>
 
