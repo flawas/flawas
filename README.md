@@ -1,32 +1,109 @@
-# 👋 Hi, I'm Flavio
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about **technology, creativity, and clear communication**. I enjoy exploring new tools, breaking down complex concepts, and building projects that make tech more accessible.
+<!-- Animated header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20ich%20bin%20Flavio%20👋&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=IT%20Pro%20·%20WordPress%20Dev%20·%20Tech%20Enthusiast&descAlignY=58&descColor=a0c4ff" width="100%"/>
 
-## 🚀 What I Do
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Engineer+aus+der+Zentralschweiz+🇨🇭;WordPress+Developer+%26+Freelancer;Floorball+API+Builder+⚽;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
-* 💻 Work on IT and tech-focused projects for an MSP in Central Switzerland
-* 🌐 Set up and run WordPress websites on a freelance basis
-* 🏗️ Currently rebuilding my first WordPress plugin: the [**swiss-floorball-api**](https://github.com/flawas/swiss-floorball-api) extension
-* 📖 Continuously learn about software, digital culture, and emerging technologies
+</div>
 
-## 🧰 Skills & Interests
+---
 
-* Software & scripting basics
-* IT infrastructure & security concepts
-* Research, documentation, and knowledge sharing
+## 🧑‍💻 Über mich
 
-## 📂 What You’ll Find Here
+Ich bin Flavio – ein IT-Profi aus der **Zentralschweiz**, der tagsüber für ein MSP arbeitet und nebenbei WordPress-Websites baut, open-source Projekte entwickelt und tief in die Welt der Technologie eintaucht.
 
-* Technical experiments and learning projects
-* Scripts and small tools
-* Writeups and documentation from my tech explorations
+```yaml
+name:       Flavio Waser
+location:   Central Switzerland 🇨🇭
+role:       IT Engineer @ MSP | WordPress Freelancer
+currently:  Rebuilding the swiss-floorball-api plugin
+interests:  [IT Infrastructure, Web Dev, Security, Scripting]
+```
 
-## 🎯 My Goals
+---
 
-* Build a clean, meaningful collection of projects
-* Improve my technical depth while keeping things approachable
-* Share insights in a way that’s helpful and engaging
+## 🚀 Was ich mache
 
-## 📫 Get in Touch
+| 💼 Beruf | Freelance | 🔨 Aktuell |
+|---|---|---|
+| IT & MSP Support in der Zentralschweiz | WordPress Websites aufbauen & betreiben | [swiss-floorball-api](https://github.com/flawas/swiss-floorball-api) Plugin neu aufbauen |
 
-Always open to ideas, collaboration, or interesting conversations.
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Spotlight Projekt
+
+<div align="center">
+
+[![Banner](https://raw.githubusercontent.com/flawas/swiss-floorball-api/main/assets/banner-914x298.png)](https://github.com/flawas/swiss-floorball-api)
+
+[![swiss-floorball-api](https://github-readme-stats.vercel.app/api/pin/?username=flawas&repo=swiss-floorball-api&theme=tokyonight&hide_border=true)](https://github.com/flawas/swiss-floorball-api)
+
+</div>
+
+> 🏒 Ein WordPress-Plugin, das die **Swiss Floorball API** integriert - Vereinsdaten, Spielpläne und Resultate direkt in WordPress. Aktuell wird es komplett neu gebaut.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=flawas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawas&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=flawas&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+## 🎯 Ziele 2026
+
+- [ ] 🔌 `swiss-floorball-api` Plugin veröffentlichen
+- [ ] 📦 Weitere nützliche Open-Source-Tools bauen
+- [ ] 📖 Tech-Docs & Writeups teilen
+
+---
+
+## 📫 Kontakt & Support
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/@flawas-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flawas)
+[![PayPal](https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](http://www.paypal.me/flaviowaser)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+
+*"Build things. Break things. Learn from it."*
+
+</div>
