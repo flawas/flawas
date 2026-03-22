@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20ich%20bin%20Flavio%20👋&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=IT%20Pro%20·%20WordPress%20Dev%20·%20Tech%20Enthusiast&descAlignY=58&descColor=a0c4ff" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Engineer+aus+der+Zentralschweiz+🇨🇭;WordPress+Developer+%26+Freelancer;Floorball+API+Builder+⚽;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Engineer+aus+der+Zentralschweiz+🇨🇭;WordPress+Developer+%26+Freelancer;Floorball+API+Builder+⚽;Swiss+Stock+Portfolio+Tracker+📈;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ Ich bin Flavio – ein IT-Profi aus der **Zentralschweiz**, der tagsüber für e
 name:       Flavio Waser
 location:   Central Switzerland 🇨🇭
 role:       IT Engineer @ MSP | WordPress Freelancer
-currently:  Rebuilding the swiss-floorball-api plugin
+currently:  Building actualbudget-helvetfolio – Swiss Stock Portfolio Tracker
 interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 ```
 
@@ -28,7 +28,7 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 
 | 💼 Beruf | Freelance | 🔨 Aktuell |
 |---|---|---|
-| IT & MSP Support in der Zentralschweiz | WordPress Websites aufbauen & betreiben | [swiss-floorball-api](https://github.com/flawas/swiss-floorball-api) Plugin neu aufbauen |
+| IT & MSP Support in der Zentralschweiz | WordPress Websites aufbauen & betreiben | [actualbudget-helvetfolio](https://github.com/flawas/actualbudget-helvetfolio) – Swiss Stock Portfolio Tracker |
 
 ---
 
@@ -41,6 +41,7 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -50,11 +51,19 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 
 ---
 
-## 📌 Spotlight Projekt
+## 📌 Spotlight Projekte
 
 <div align="center">
 
-[![Banner](https://raw.githubusercontent.com/flawas/swiss-floorball-api/main/assets/banner-914x298.png)](https://github.com/flawas/swiss-floorball-api)
+[![actualbudget-helvetfolio](https://github-readme-stats.vercel.app/api/pin/?username=flawas&repo=actualbudget-helvetfolio&theme=tokyonight&hide_border=true)](https://github.com/flawas/actualbudget-helvetfolio)
+
+</div>
+
+> 📈 Ein Swiss Stock Portfolio Tracker, der **Yahoo Finance Preise** automatisch in [Actual Budget](https://actualbudget.org/) synchronisiert – mit Live-Dashboard, Stock-Gruppierung und Docker-Support (amd64 / arm64). Aktuell in Version **v1.1.0**.
+
+---
+
+<div align="center">
 
 [![swiss-floorball-api](https://github-readme-stats.vercel.app/api/pin/?username=flawas&repo=swiss-floorball-api&theme=tokyonight&hide_border=true)](https://github.com/flawas/swiss-floorball-api)
 
@@ -81,12 +90,12 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 
 ---
 
-## 🎯 Ziele 2025
+## 🎯 Ziele 2026
 
-- [ ] 🔌 `swiss-floorball-api` Plugin veröffentlichen
+- [x] 📦 **actualbudget-helvetfolio** v1.1.0 veröffentlichen
+- [x] 🔌 `swiss-floorball-api` Plugin veröffentlichen
 - [ ] 🛡️ Security-Kenntnisse vertiefen
 - [ ] 🌐 Eigene Portfolio-Website launchen
-- [ ] 📦 Weitere nützliche Open-Source-Tools bauen
 - [ ] 📖 Tech-Docs & Writeups teilen
 
 ---
@@ -100,7 +109,7 @@ interests:  [IT Infrastructure, Web Dev, Security, Scripting]
 
 </div>
 
-Alle meine Projekte entstehen in der Freizeit – neben einem Vollzeitjob, aus echtem Interesse und dem Wunsch, etwas Nützliches für die Community zu bauen. Wenn dir meine Arbeit gefällt oder du sie unterstützen möchtest, freue ich mich sehr über eine kleine Spende. Jeder Betrag hilft dabei, mehr Zeit in open-source Projekte wie das **swiss-floorball-api** Plugin zu investieren. 🙏
+Alle meine Projekte entstehen in der Freizeit – neben einem Vollzeitjob, aus echtem Interesse und dem Wunsch, etwas Nützliches für die Community zu bauen. Wenn dir meine Arbeit gefällt oder du sie unterstützen möchtest, freue ich mich sehr über eine kleine Spende. Jeder Betrag hilft dabei, mehr Zeit in open-source Projekte wie **actualbudget-helvetfolio** oder das **swiss-floorball-api** Plugin zu investieren. 🙏
 
 ---
 
